@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\bin\Debug\net8.0\Parcial2-FioritoGreta.exe
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\bin\Debug\net8.0\Parcial2-FioritoGreta.deps.json
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\bin\Debug\net8.0\Parcial2-FioritoGreta.runtimeconfig.json
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\bin\Debug\net8.0\Parcial2-FioritoGreta.dll
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\bin\Debug\net8.0\Parcial2-FioritoGreta.pdb
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\Parcial2-FioritoGreta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\Parcial2-FioritoGreta.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\Parcial2-FioritoGreta.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\Parcial2-FioritoGreta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\Parcial2-FioritoGreta.dll
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\refint\Parcial2-FioritoGreta.dll
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\Parcial2-FioritoGreta.pdb
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\Parcial2-FioritoGreta.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Parcial2-FioritoGreta\obj\Debug\net8.0\ref\Parcial2-FioritoGreta.dll
